@@ -1,0 +1,15 @@
+body {
+  background-color: #f8f9fa ;
+}
+
+h1 {
+  color : #333 ;
+}
+
+#contactList {
+  transition: 0.3s ;
+}
+
+#contactList li:hover {
+  background-color : #f1f1f1 ;
+}
